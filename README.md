@@ -1,10 +1,10 @@
 <!-- Upload the /assets/ folder to your profile repo alongside this README.md -->
 
-![hero](https://i.postimg.cc/XJyFqmP8/hero.jpg)
+![hero](https://i.postimg.cc/6phZgdsL/name.png)
 
 <br/>
 
-![about](https://i.postimg.cc/j5rq615F/about.jpg)
+![about](https://i.postimg.cc/rmsw-h4c8/about-new.png)
 
 <br/>
 

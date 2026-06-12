@@ -143,7 +143,7 @@ Agile by methodology. Meticulous by nature.
 <td align="center" bgcolor="#FFE500">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mskarthik2001)
-[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karthimanikuttan001)
+[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karthimanisindhu)
 [![Stack Overflow](https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21594472)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthimanikuttan001@gmail.com)
 

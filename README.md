@@ -1,164 +1,96 @@
-<!-- NeoBrutalism GitHub Profile README — Karthik Manikuttan -->
+<!-- Upload the /assets/ folder to your profile repo alongside this README.md -->
+
+![hero](https://i.postimg.cc/XJyFqmP8/hero.jpg)
+
+<br/>
+
+![about](https://i.postimg.cc/j5rq615F/about.jpg)
+
+<br/>
+
+![stack](https://i.postimg.cc/g2CGd7vb/divider-stack.jpg)
+
+<br/>
+
+**`CORE`**
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**`BACKEND & CLOUD`**
+
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+**`DEVOPS & TOOLING`**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+**`DESIGN & MONITORING`**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+
+<br/>
+
+![stats](https://i.postimg.cc/yY5HXGpp/divider-stats.jpg)
+
+<br/>
 
 <div align="center">
 
-<!-- HERO BLOCK -->
-<table border="3" bordercolor="#000000" cellpadding="0" cellspacing="0" style="border: 3px solid black; box-shadow: 6px 6px 0px #000;">
-<tr>
-<td align="center" bgcolor="#FFE500" style="padding: 32px 48px; border: none;">
+<img src="https://github-readme-stats.shion.dev/api?username=KarthikManikuttan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&border_color=FFE500&bg_color=0d1117&title_color=FFE500&text_color=ffffff&icon_color=FFE500" height="170"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=KarthikManikuttan&theme=dark&hide_border=false&border=FFE500&background=0d1117&ring=FFE500&fire=FF3B00&currStreakLabel=FFE500&sideLabels=FFE500" height="170"/>
 
-```
-╔═══════════════════════════════════════════╗
-║                                           ║
-║   K A R T H I K   M A N I K U T T A N   ║
-║                                           ║
-║         Flutter Developer                 ║
-║                                           ║
-╚═══════════════════════════════════════════╝
-```
+<br/><br/>
 
-**Building pixel-perfect mobile experiences — Android & iOS**
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KarthikManikuttan&theme=dark&hide_border=false&border_color=FFE500&bg_color=0d1117&title_color=FFE500&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 
 </div>
 
----
+<br/>
 
-<!-- ABOUT -->
-<table border="3" bordercolor="#000" cellspacing="0" cellpadding="20" width="100%">
-<tr>
-<td bgcolor="#FFFFFF" style="border-left: 6px solid #000; padding-left: 16px;">
+![trophies](https://i.postimg.cc/gkL5d248/divider-trophies.jpg)
 
-### ▌ WHO AM I
-
-Flutter dev obsessed with clean architecture, snappy UIs, and code that actually makes sense six months later.  
-I build with **Dart**, wrangle state with **Provider & Cubit**, sync data via **Firebase & REST APIs**, and persist locally with **Hive**.  
-Agile by methodology. Meticulous by nature.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TECH STACK -->
-
-### ▐▌ TECH STACK
+<br/>
 
 <div align="center">
 
-<!-- Row 1: Core -->
-![Dart](https://img.shields.io/badge/DART-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/KOTLIN-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-<!-- Row 2: Backend & Cloud -->
-![Firebase](https://img.shields.io/badge/FIREBASE-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-<!-- Row 3: DevOps & Tooling -->
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-<!-- Row 4: Design & Monitoring -->
-![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Sentry](https://img.shields.io/badge/SENTRY-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=KarthikManikuttan&theme=radical&no-frame=false&margin-w=4)
 
 </div>
 
----
+<br/>
 
-<!-- GITHUB STATS — Neo block layout -->
+![connect](https://i.postimg.cc/BZjsLsMs/divider-connect.jpg)
 
-### ▐▌ GITHUB STATS
+<br/>
 
 <div align="center">
 
-<table border="0" cellspacing="8" cellpadding="0">
-<tr>
-<td>
-
-![Stats](https://github-readme-stats.shion.dev/api?username=KarthikManikuttan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&border_color=000000&border_radius=0&title_color=FFE500&text_color=FFFFFF&bg_color=111111)
-
-</td>
-<td>
-
-![Streak](https://streak-stats.demolab.com/?user=KarthikManikuttan&theme=dark&hide_border=false&border=000000&ring=FFE500&fire=FF3B00&currStreakLabel=FFE500&background=111111)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=KarthikManikuttan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=000000&border_radius=0&title_color=FFE500&text_color=FFFFFF&bg_color=111111)
-
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mskarthik2001)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karthimanikuttan001)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21594472)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthimanikuttan001@gmail.com)
 
 </div>
 
----
+<br/>
 
-<!-- TROPHIES -->
+![footer](https://i.postimg.cc/WzTMyS9y/footer.jpg)
 
-### ▐▌ TROPHIES
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=KarthikManikuttan&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
-<!-- TOP CONTRIBUTIONS -->
-
-### ▐▌ TOP CONTRIBUTIONS
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=KarthikManikuttan&limit=5&theme=dark&combine_all_yearly_contributions=true&border_color=000000)
-
-</div>
-
----
-
-<!-- CONNECT -->
-
-### ▐▌ FIND ME
-
-<div align="center">
-
-<table border="3" bordercolor="#000" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center" bgcolor="#FFE500">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mskarthik2001)
-[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karthimanisindhu)
-[![Stack Overflow](https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21594472)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthimanikuttan001@gmail.com)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KarthikManikuttan&color=FFE500&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KarthikManikuttan)
-
-**`// Built different. Shipped clean.`**
 
 </div>

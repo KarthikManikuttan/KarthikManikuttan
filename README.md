@@ -100,6 +100,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KarthikManikuttan&color=FFE500&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KarthikManikuttan)
+[![Profile Views](https://komarev.com/ghpvc/?username=KarthikManikuttan&color=0b5394&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/KarthikManikuttan)
 
 </div>

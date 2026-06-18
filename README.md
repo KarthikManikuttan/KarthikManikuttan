@@ -7,10 +7,13 @@
 ![about](https://i.postimg.cc/rmsw-h4c8/about-new.png)
 
 <br/>
+<br/>
+
+[![website](https://img.shields.io/website?url=https%3A%2F%2Fmskarthik.online&style=for-the-badge&label=website)](https://mskarthik.online/)
 
 <br/>
 
-[![pub.dev](https://img.shields.io/pub/publisher/app_updater_flutter)](https://pub.dev/packages/app_updater_flutter)
+[![pub.dev](https://img.shields.io/pub/v/app_updater_flutter?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/app_updater_flutter)
 
 <br/>
 
@@ -22,7 +25,6 @@
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **`BACKEND & CLOUD`**

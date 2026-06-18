@@ -9,8 +9,8 @@
 <br/>
 
 <br/>
-**`PUB.DEV`**
-![pub.dev](https://img.shields.io/pub/publisher/app_updater_flutter)
+
+[![pub.dev](https://img.shields.io/pub/publisher/app_updater_flutter)](https://pub.dev/packages/app_updater_flutter)
 
 <br/>
 
